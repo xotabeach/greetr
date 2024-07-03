@@ -1,0 +1,16 @@
+{
+    "name": "tarasovnd/greetr",
+    "description": "haha package",
+    "autoload": {
+        "psr-4": {
+            "Simplexi\\Greetr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xotabeach"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
